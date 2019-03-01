@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Miss_Indo_Asia</string>
+    <string name="email_id">email</string>
+    <string name="password">password</string>
+    <string name="login">login</string>
+    <string name="create_a_new_account">create_a_new_account</string>
+    <string name="failed">failed</string>
+    <string name="lbl_forgot_password">lbl_forgot_password</string>
+    <string name="forgot_password_msg">forgot_password_msg</string>
+    <string name="btn_reset_password">btn_reset_password</string>
+    <string name="btn_back">btn_back</string>
+    <string name="forgot_password">forget_password</string>
+</resources>

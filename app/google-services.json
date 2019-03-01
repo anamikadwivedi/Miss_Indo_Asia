@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "76669314029",
+    "firebase_url": "https://missindoasia-aa8d3.firebaseio.com",
+    "project_id": "missindoasia-aa8d3",
+    "storage_bucket": "missindoasia-aa8d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76669314029:android:7bf1b7a8c883d3c9",
+        "android_client_info": {
+          "package_name": "com.example.star.miss_indo_asia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "76669314029-0ncut6n76jvqeptqruc8r7cl7eonichl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.star.miss_indo_asia",
+            "certificate_hash": "e1870abbc20c2140dac2327cc5788d7c0bdb72ea"
+          }
+        },
+        {
+          "client_id": "76669314029-hqv2r4i6kovbb3uq9mpm89at27aa7p57.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtOArGX6O_YCQp1OAZk0BZv2tFJ3alK8k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "76669314029-hqv2r4i6kovbb3uq9mpm89at27aa7p57.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
